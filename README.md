@@ -8,7 +8,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Solution URL]
+- [Solution URL](https://www.frontendmentor.io/solutions/react-profile-card-6DBl29vSaX)
 - [Live Site URL](https://jdiabi-react-profile-card.netlify.app)
 
 ### Author
