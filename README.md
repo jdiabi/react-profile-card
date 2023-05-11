@@ -4,7 +4,7 @@ Profile Card Component in React JS to practice basic component building in React
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![](.src/images/desktop-screenshot.png)
+![](./src/images/desktop-screenshot.png)
 
 ### Links
 
